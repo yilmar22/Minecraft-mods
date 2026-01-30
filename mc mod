@@ -1,0 +1,5 @@
+string[] color= {"Blue", "red", "purple", "Green"}
+string[][] letters= 
+{R,A,V}
+{B,C,D}
+{Y,Z,X}
